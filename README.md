@@ -1,7 +1,7 @@
-# Olá,<img src="Assets/Hi.gif" width="29px" />  I'm Amit!  
+# Olá,<img src="https://github.com/Amitpatil215/AmitPatil215/blob/master/Assets/Hi.gif?raw=true" width="29px" />  I'm Amit!  
 
 ### Glad to see you here!  
-<img align='right' src="Assets/pic.svg" width="300" />
+<img align='right' src="https://raw.githubusercontent.com/Amitpatil215/AmitPatil215/74da6a7721bd68695078abe84e715b11e992bb4a/Assets/pic.svg" width="300" />
 I'm a 2nd student pursuing Bachelors's in Information Technology 🎓 from Jaypee University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Android Development 🕸️ and working on my Data Structures and Algorithms.
 
 ## More about me...
@@ -24,7 +24,7 @@ I'm a 2nd student pursuing Bachelors's in Information Technology 🎓 from Jaype
 </div>
 
 <div align="center">
-  <h3 align="center">Thanks for stopping by<img align="center" src="Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Thanks for stopping by<img align="center" src="https://github.com/Amitpatil215/AmitPatil215/blob/master/Assets/Handshake.gif?raw=true" height="33px" /></h3> 
 </div>
 
 <p align="center">
