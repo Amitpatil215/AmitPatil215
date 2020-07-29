@@ -13,16 +13,7 @@ I'm a 2nd student pursuing Bachelors's in Information Technology 🎓 from Jaype
 
 ## Languages and Tools:
 
-<img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg"><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg">
 <br></br>
 
 <div align="center">
