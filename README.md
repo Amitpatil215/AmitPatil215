@@ -1,7 +1,7 @@
-# Olá,<img src="Assets/Hi.gif" width="29px">  I'm Amit!  
+# Olá,<img src="Assets/Hi.gif" width="29px" />  I'm Amit!  
 
 ### Glad to see you here!  
-<img align='right' src="Assets/pic.svg" width="300">
+<img align='right' src="Assets/pic.svg" width="300" />
 I'm a 2nd student pursuing Bachelors's in Information Technology 🎓 from Jaypee University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Android Development 🕸️ and working on my Data Structures and Algorithms.
 
 ## More about me...
