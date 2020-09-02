@@ -2,7 +2,7 @@
 
 ### Glad to see you here!  
 <img align='right' src="https://raw.githubusercontent.com/Amitpatil215/AmitPatil215/74da6a7721bd68695078abe84e715b11e992bb4a/Assets/pic.svg" width="300" />
-I'm a 2nd student pursuing Bachelors's in Information Technology 🎓 from Jaypee University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Android Development 🕸️ and working on my Data Structures and Algorithms.
+I'm a 2nd yr student pursuing Bachelors's in Information Technology 🎓 from Jaypee University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Android Development 🕸️ and working on my Data Structures and Algorithms.
 
 ## More about me...
 
@@ -17,7 +17,7 @@ I'm a 2nd student pursuing Bachelors's in Information Technology 🎓 from Jaype
 <br></br>
 
 <div align="center">
- <em><b>I love connecting with different people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> ;)</em>
+ <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> ;)</em>
 
 ### Show some ❤️ by starring some of the repositories!
 
