@@ -17,25 +17,29 @@ I'm a 2nd yr student pursuing Bachelors's in Information Technology 🎓 from Ja
 <br></br> -->
 
 <div align="center">
+
  <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b>)</em>
 </div>
 
 ## Examples of work
 
+<div align="center">
 
-<table>
-  <tr>
-    <td>Prescribed</td>
-     <td>Doctor Duniya</td>
-      <td>Cheat Meals</td>
-  </tr>
+<a href="https://github.com/Amitpatil215/JS-Basics" target="blank">
+  <img src="https://user-images.githubusercontent.com/54329870/98344533-64b8f600-2039-11eb-9f01-b5409a81755e.gif"  width="225">
+ </a>
 
-  <tr>
-    <td><img src="Assets\prescribe.gif" ></td>
-    <td><img src="https://user-images.githubusercontent.com/54329870/98292516-d4e06100-1fd2-11eb-8c2a-12fa0b2b795c.gif"  ></td>
-     <td><img src="https://user-images.githubusercontent.com/54329870/98291694-90a09100-1fd1-11eb-9b16-d8897f633e5f.gif"  ></td>
-  </tr>
- </table>
+ <a href="https://github.com/Amitpatil215/JS-Basics" target="blank">
+  <img src="https://user-images.githubusercontent.com/54329870/98344533-64b8f600-2039-11eb-9f01-b5409a81755e.gif"  width="225">
+ </a>
+
+ <a href="https://github.com/Amitpatil215/JS-Basics" target="blank">
+  <img src="https://user-images.githubusercontent.com/54329870/98344533-64b8f600-2039-11eb-9f01-b5409a81755e.gif"  width="225">
+ </a>
+
+</div>
+
+<br></br>
 
 <div align="center">
 
