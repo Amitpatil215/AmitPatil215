@@ -1,3 +1,4 @@
+
 # Olá,<img src="https://user-images.githubusercontent.com/54329870/98367688-1537f180-205c-11eb-8c9e-52adf49d78b0.gif" width="29px" />  I'm Amit!
 
 <!-- ### Glad to see you here!
@@ -18,6 +19,7 @@ I'm a 2nd yr student pursuing Bachelors's in Information Technology 🎓 from Ja
 <br></br>
 
 <div align="center">
+
 
  <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to [meet](https://t.me/amitpatil215) you more!</b> ;)</em>
  ###### Know everything about something and something about everything !
