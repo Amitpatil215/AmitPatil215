@@ -21,20 +21,18 @@ I'm a 2nd yr student pursuing Bachelors's in Information Technology 🎓 from Ja
  <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b>)</em>
 </div>
 
-## Examples of work
-
 <div align="center">
 
-<a href="https://github.com/Amitpatil215/JS-Basics" target="blank">
-  <img src="https://user-images.githubusercontent.com/54329870/98344533-64b8f600-2039-11eb-9f01-b5409a81755e.gif"  width="225">
+<a href="https://github.com/PrescribedHealth" target="blank">
+  <img src="https://user-images.githubusercontent.com/54329870/98346873-a26b4e00-203c-11eb-9e37-34e77ca52c11.gif"  width="225">
  </a>
 
- <a href="https://github.com/Amitpatil215/JS-Basics" target="blank">
-  <img src="https://user-images.githubusercontent.com/54329870/98344533-64b8f600-2039-11eb-9f01-b5409a81755e.gif"  width="225">
+ <a href="https://github.com/PrescribedHealth" target="blank">
+  <img src="https://user-images.githubusercontent.com/54329870/98347267-33422980-203d-11eb-94a9-c545c638c32e.gif"  width="225">
  </a>
 
- <a href="https://github.com/Amitpatil215/JS-Basics" target="blank">
-  <img src="https://user-images.githubusercontent.com/54329870/98344533-64b8f600-2039-11eb-9f01-b5409a81755e.gif"  width="225">
+ <a href="https://github.com/Amitpatil215/Encoding-Flutter" target="blank">
+  <img src="https://user-images.githubusercontent.com/54329870/98350203-0859d480-2041-11eb-90c0-ee1f226831e2.gif"  width="225">
  </a>
 
 </div>
