@@ -23,6 +23,7 @@ I'm a 2nd yr student pursuing Bachelors's in Information Technology 🎓 from Ja
 
  <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to [meet](https://t.me/amitpatil215) you more!</b> ;)</em>
  ###### Know everything about something and something about everything !
+ <!--
 </div>
 
 <br> </br>
@@ -44,6 +45,7 @@ I'm a 2nd yr student pursuing Bachelors's in Information Technology 🎓 from Ja
 </div>
 
 <br></br>
+-->
 
 <div align="center">
 
