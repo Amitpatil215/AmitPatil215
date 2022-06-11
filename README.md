@@ -1,5 +1,5 @@
 
-# Olá,<img src="https://user-images.githubusercontent.com/54329870/98367688-1537f180-205c-11eb-8c9e-52adf49d78b0.gif" width="29px" />  I'm Amit!
+# Olá,<img src="https://user-images.githubusercontent.com/54329870/98367688-1537f180-205c-11eb-8c9e-52adf49d78b0.gif" width="29px" height="29px"/>  I'm Amit!
 
 <!-- ### Glad to see you here!
 <img align='right' src="https://raw.githubusercontent.com/Amitpatil215/AmitPatil215/74da6a7721bd68695078abe84e715b11e992bb4a/Assets/pic.svg" width="300" />
